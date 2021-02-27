@@ -1,1 +1,2 @@
 # React_and_Morty
+A React app (created in a team) fetching characters and locations from the series Rick and Morty. The dowloaded data are transformed into cards optimised to fill a normal screen (which can be scrolled if the viewport is smaller). They provide you further information if you click on them. Together with React we used styled components and Material UI, providing two methods of scrolling between the pages.
